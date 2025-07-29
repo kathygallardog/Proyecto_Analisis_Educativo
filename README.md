@@ -7,3 +7,5 @@ Se utilizó un dataset educativo, compuesto por diversas tablas relacionadas con
 * asistencia
 * talleres
 * estudio personal
+
+Se incluye un documento PDF para facilitar la visualización.
