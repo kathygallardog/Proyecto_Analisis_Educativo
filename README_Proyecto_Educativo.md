@@ -38,5 +38,9 @@ Este proyecto consistió en el análisis de datos educativos de una institución
 * **Power BI**: Visualización interactiva de los resultados.
 * **GitHub**: Control de versiones y documentación del proyecto.
 
----
 
+## Ver Reporte Interactivo
+
+[Haz clic aquí para ver el dashboard en Power BI Online](https://app.powerbi.com/view?r=eyJrIjoiZTBhYjRmZmUtZTk3MC00YzcxLWIwOTctMjczMWYyMjlkYjIxIiwidCI6IjU2NTgyYjllLTg4MjQtNDlkMC1hNjY1LWNkMzI4YzBlMDA0YSIsImMiOjR9)
+
+---
